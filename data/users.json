@@ -1,0 +1,26 @@
+[
+  {
+    "userId": "5rna6chkihayzrh",
+    "email": "rahul.j@google.com",
+    "password": "$2a$10$ucW2gAyRJCb5UA8oWnrcAOD8RIEYaalusjRrtJSsZiHSdNWX5Y/0C",
+    "createdAt": 1607511717772
+  },
+  {
+    "userId": "5rna7yakihch9ug",
+    "email": "venu.j@google.com",
+    "password": "$2a$10$mfNVPZUhUin9hetTzPsoveONTZKnRcdUcGH1C7qwkENM0dQtyjGvi",
+    "createdAt": 1607514250263
+  },
+  {
+    "userId": "5rna99lkihdcr73",
+    "email": "saurav.j@google.com",
+    "password": "$2a$10$fHxY43W00vGMaDNSOSX3duvBkvHBLuRe3tj9asrJLeF9T/XMPyl8y",
+    "createdAt": 1607515719086
+  },
+  {
+    "userId": "5rnaad5kiheefuv",
+    "email": "akash.j@google.com",
+    "password": "$2a$10$XfigSSlAPCy4dXhAx7U8DupYqp.0pwYObQn6g7ZbrMDB9whkIqfQ2",
+    "createdAt": 1607517477318
+  }
+]
